@@ -1,5 +1,10 @@
 <h1 align="left"> :open_file_folder: File Statics</h1>
 <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+<h3>Technologies:</h3>
+<div>
+<img width="50" height="50" src="https://github.com/ArielBri/ArielBri/blob/master/techImages/c-1.svg">
+<img width="50" height="50" src="https://github.com/ArielBri/ArielBri/blob/master/techImages/c.svg">
+</div>
 <h3>Autor: :heavy_check_mark: Ariel Eduardo Briñoli</h3>
 
 <h3>Repository Statics</h3>
